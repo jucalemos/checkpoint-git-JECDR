@@ -5,6 +5,6 @@ int main() {
     printf("Carlos Henrique Santos Dias RM573334\n");
     printf('Victor Henrique Nogueira RM570021\n');
     printf('Erick Yu xiang Li RM569305\n');
-    printf("\");
+    printf("Júlia Lemos Souza");
     return 0;
 } 
